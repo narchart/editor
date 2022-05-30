@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef80a988fe0b012d0ebd4b7b79704269",
+    "revision": "9e22763ef4b91e343fad678ac0a2c33d",
     "url": "./index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/2.a4e242f4.chunk.css"
   },
   {
-    "revision": "031d73d26c8deafd625f",
+    "revision": "f4eb160cb9ca8064e870",
     "url": "./static/css/main.dea60d77.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/4.05f4d863.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "031d73d26c8deafd625f",
-    "url": "./static/js/main.d40754ad.chunk.js"
+    "revision": "f4eb160cb9ca8064e870",
+    "url": "./static/js/main.9305bd96.chunk.js"
   },
   {
     "revision": "554c235ef086fd17a0fc",
@@ -132,8 +132,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/piechart19.b569cc73.gif"
   },
   {
-    "revision": "1a199d5ce10406e6943c1c20ebae8f0f",
-    "url": "./static/media/piechart20.1a199d5c.gif"
+    "revision": "340959ded992b2d4a2b29564bd7f81c9",
+    "url": "./static/media/piechart20.340959de.gif"
   },
   {
     "revision": "d0ae561986ed55bb13c4a06828c926d0",
@@ -152,20 +152,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/piechart24.cc748b7d.gif"
   },
   {
-    "revision": "73e13dbcf8443b7cf51c39a9fbcc933c",
-    "url": "./static/media/piechart25.73e13dbc.gif"
+    "revision": "884532a0b843170e3f5e4c20f4230ee7",
+    "url": "./static/media/piechart25.884532a0.gif"
   },
   {
-    "revision": "09433a74f0bc554ee4ddccd1bd1f1a62",
-    "url": "./static/media/piechart26.09433a74.gif"
+    "revision": "82c96f16912bc8ae43080421ad855e2d",
+    "url": "./static/media/piechart26.82c96f16.gif"
   },
   {
     "revision": "529954eeecab316cca58ad3b34210733",
     "url": "./static/media/piechart27.529954ee.gif"
   },
   {
-    "revision": "9eae159f654f7ec57be1560751b6391f",
-    "url": "./static/media/piechart28.9eae159f.gif"
+    "revision": "b76876b7c5b1f70bb03212305f425d02",
+    "url": "./static/media/piechart28.b76876b7.gif"
   },
   {
     "revision": "9623a7bb97e20d2f922a476eb2fa0035",
@@ -176,8 +176,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/scatterplot30.fb522d33.gif"
   },
   {
-    "revision": "78561032ea2abe45fbfef895a3adc10d",
-    "url": "./static/media/scatterplot31.78561032.gif"
+    "revision": "22441c2b45a9f785c538a606a1e31060",
+    "url": "./static/media/scatterplot31.22441c2b.gif"
   },
   {
     "revision": "16865ce966d9403f1735a63cf30404b6",
@@ -212,8 +212,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/unit39.5128bc9b.gif"
   },
   {
-    "revision": "f8b0d20f65a35123dc77f695a90c5fc0",
-    "url": "./static/media/unit40.f8b0d20f.gif"
+    "revision": "3eecc86e3f9b8bc92bc0f2a145537fef",
+    "url": "./static/media/unit40.3eecc86e.gif"
   },
   {
     "revision": "7fe9cce51983f5b5a9dac1ebcb32a22f",
@@ -236,12 +236,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/unit45.f9547733.gif"
   },
   {
-    "revision": "93ee6f123e854c63cbadebeb8f51cfa2",
-    "url": "./static/media/unit46.93ee6f12.gif"
+    "revision": "6ccbb7964626eb605f5cc4f7e0d9e687",
+    "url": "./static/media/unit46.6ccbb796.gif"
   },
   {
-    "revision": "590411be315dd9dcfdf8c270704c7068",
-    "url": "./static/media/unit47.590411be.gif"
+    "revision": "777629dec5948fe3b3680b243bda54b4",
+    "url": "./static/media/unit47.777629de.gif"
   },
   {
     "revision": "1b1a264da03554a66c20f57dc72a019b",
