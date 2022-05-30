@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.dea60d77.chunk.css",
-    "main.js": "./static/js/main.9305bd96.chunk.js",
-    "main.js.map": "./static/js/main.9305bd96.chunk.js.map",
+    "main.js": "./static/js/main.3a931111.chunk.js",
+    "main.js.map": "./static/js/main.3a931111.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7c40947b.js",
     "runtime-main.js.map": "./static/js/runtime-main.7c40947b.js.map",
     "static/css/2.a4e242f4.chunk.css": "./static/css/2.a4e242f4.chunk.css",
@@ -13,7 +13,7 @@
     "static/js/4.05f4d863.chunk.js": "./static/js/4.05f4d863.chunk.js",
     "static/js/4.05f4d863.chunk.js.map": "./static/js/4.05f4d863.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.21dcf287d23a796c6661b96456f30590.js": "./precache-manifest.21dcf287d23a796c6661b96456f30590.js",
+    "precache-manifest.06f55ab42139d4b0d815f5c7dcc307f1.js": "./precache-manifest.06f55ab42139d4b0d815f5c7dcc307f1.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.a4e242f4.chunk.css.map": "./static/css/2.a4e242f4.chunk.css.map",
     "static/css/main.dea60d77.chunk.css.map": "./static/css/main.dea60d77.chunk.css.map",
@@ -42,15 +42,15 @@
     "static/media/loading.gif": "./static/media/loading.82c19004.gif",
     "static/media/playground.css": "./static/media/pdf.0e257a44.png",
     "static/media/piechart19.gif": "./static/media/piechart19.b569cc73.gif",
-    "static/media/piechart20.gif": "./static/media/piechart20.340959de.gif",
-    "static/media/piechart21.gif": "./static/media/piechart21.d0ae5619.gif",
+    "static/media/piechart20.gif": "./static/media/piechart20.4ef6a146.gif",
+    "static/media/piechart21.gif": "./static/media/piechart21.2389f48e.gif",
     "static/media/piechart22.gif": "./static/media/piechart22.85229909.gif",
     "static/media/piechart23.gif": "./static/media/piechart23.314ca802.gif",
     "static/media/piechart24.gif": "./static/media/piechart24.cc748b7d.gif",
     "static/media/piechart25.gif": "./static/media/piechart25.884532a0.gif",
     "static/media/piechart26.gif": "./static/media/piechart26.82c96f16.gif",
     "static/media/piechart27.gif": "./static/media/piechart27.529954ee.gif",
-    "static/media/piechart28.gif": "./static/media/piechart28.b76876b7.gif",
+    "static/media/piechart28.gif": "./static/media/piechart28.0af1beff.gif",
     "static/media/scatterplot29.gif": "./static/media/scatterplot29.9623a7bb.gif",
     "static/media/scatterplot30.gif": "./static/media/scatterplot30.fb522d33.gif",
     "static/media/scatterplot31.gif": "./static/media/scatterplot31.22441c2b.gif",
@@ -78,6 +78,6 @@
     "static/css/2.a4e242f4.chunk.css",
     "static/js/2.40113843.chunk.js",
     "static/css/main.dea60d77.chunk.css",
-    "static/js/main.9305bd96.chunk.js"
+    "static/js/main.3a931111.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e22763ef4b91e343fad678ac0a2c33d",
+    "revision": "55b2c2a85f56fabb66563716f7b9a13f",
     "url": "./index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/2.a4e242f4.chunk.css"
   },
   {
-    "revision": "f4eb160cb9ca8064e870",
+    "revision": "f88d28d6d224f009bc8e",
     "url": "./static/css/main.dea60d77.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/4.05f4d863.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f4eb160cb9ca8064e870",
-    "url": "./static/js/main.9305bd96.chunk.js"
+    "revision": "f88d28d6d224f009bc8e",
+    "url": "./static/js/main.3a931111.chunk.js"
   },
   {
     "revision": "554c235ef086fd17a0fc",
@@ -132,12 +132,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/piechart19.b569cc73.gif"
   },
   {
-    "revision": "340959ded992b2d4a2b29564bd7f81c9",
-    "url": "./static/media/piechart20.340959de.gif"
+    "revision": "4ef6a1461425d6c93c00080cc94d9449",
+    "url": "./static/media/piechart20.4ef6a146.gif"
   },
   {
-    "revision": "d0ae561986ed55bb13c4a06828c926d0",
-    "url": "./static/media/piechart21.d0ae5619.gif"
+    "revision": "2389f48e7016787c3cd58751f962ae9a",
+    "url": "./static/media/piechart21.2389f48e.gif"
   },
   {
     "revision": "85229909f3905ee417fa7a97019872d3",
@@ -164,8 +164,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/piechart27.529954ee.gif"
   },
   {
-    "revision": "b76876b7c5b1f70bb03212305f425d02",
-    "url": "./static/media/piechart28.b76876b7.gif"
+    "revision": "0af1beff4578df63d990a63ed0b6ba89",
+    "url": "./static/media/piechart28.0af1beff.gif"
   },
   {
     "revision": "9623a7bb97e20d2f922a476eb2fa0035",
