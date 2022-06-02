@@ -19,7 +19,7 @@ xhr.onload = function(){
     var largeDiv = document.createElement("div")
     largeDiv.setAttribute('id','largediv')
     largeDiv.style.overflow = 'auto'
-    largeDiv.style.maxHeight = 'calc(80vh - 100px)'
+    largeDiv.style.maxHeight = 'calc(80vh - 85px)'
     largeDiv.appendChild(content)
     var body = document.getElementsByClassName("ant-modal-body")[0]
     body.appendChild(largeDiv)
@@ -35,4 +35,7 @@ xhr.onload = function(){
         var hr = document.createElement("hr")
         insertAfter(hr,h2s[i])
     }
+    // 给弹框加高度
+    var modal = document.getElementsByClassName("ant-modal-body")[0]
+    modal.style.height = 'calc(80vh - 85px)'
 }
